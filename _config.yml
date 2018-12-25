@@ -6,14 +6,13 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Zibostan
+title:            Brownian Motion
 tagline:          'Bernard Blog'
 description:      "Bernard's personal blog"
 url:              https://blog.bernardwong.com
 
 author:
   name:           'Bernard Wong'
-  url:            https://twitter.com/mdo
 
 paginate:         5
 
